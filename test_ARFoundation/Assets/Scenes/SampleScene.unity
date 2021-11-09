@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657838, g: 0.49641234, b: 0.57481676, a: 1}
+  m_IndirectSpecularColor: {r: 0.44407925, g: 0.49333048, b: 0.5723981, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -468,8 +468,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1714538319}
-  m_LocalRotation: {x: 0.16092668, y: 0.5274279, z: -0.10252159, w: 0.82789594}
-  m_LocalPosition: {x: -850680.06, y: -250.00008, z: -5626949}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1590603797}
@@ -661,7 +661,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_ARSessionOrigin: {fileID: 1590603796}
-  m_PlacementPrefab: {fileID: 3176400022313019170, guid: f9d076e6f5d9842fa9af8e6fdfb850fb, type: 3}
+  m_PlacementPrefab: {fileID: 8173389847424537620, guid: ea00611178a03400d890feb8ff68ce14, type: 3}
   m_FallbackLayerMask:
     serializedVersion: 2
     m_Bits: 0
