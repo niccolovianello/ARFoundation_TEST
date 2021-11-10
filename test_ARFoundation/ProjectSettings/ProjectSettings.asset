@@ -153,6 +153,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
+    Android: com.niccolovianello.test_ARFoundation
     iPhone: com.niccolovianello.testARFoundation
   buildNumber:
     Standalone: 0
