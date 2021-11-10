@@ -736,3 +736,4 @@ Received Import Request.
 Start importing Assets/Mapbox/Prefabs using Guid(0db425f244af04bc9a710f6886a34403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4224c5750fa070c97a382eeb6e6f3099') in 0.004379 seconds 
   Import took 0.009128 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
